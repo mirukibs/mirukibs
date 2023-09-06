@@ -33,7 +33,7 @@ Hello, I'm Kibwana Miruru!
     <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
     <a href="https://spring.io/"><img alt="SPRING" src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
     <a href="https://railway.app/"><img alt="RAILWAY" src="https://img.shields.io/badge/Railway-%236AB8E3.svg?style=plastic&logo=railway&logoColor=white"></a>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
