@@ -43,3 +43,7 @@ Hello, I'm Kibwana Miruru!
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mirukibs&label=Profile%20Views&color=0&icon=4&pretty=true" />
+</a>
+
