@@ -43,4 +43,6 @@ Hello, I'm Kibwana Miruru!
     <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
 </p>
 
+![Mirukibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirukibs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirukibs&layout=compact&show_icons=true&theme=dark)
