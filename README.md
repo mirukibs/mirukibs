@@ -6,12 +6,12 @@ Hello, I'm Kibwana Miruru!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I'm pursuing a Bachelor in Computer Science from the University of Dar Es Salaam
+💻 I'm a Software Engineer
+<!-- 📚 I'm pursuing a Bachelor in Computer Science from the University of Dar Es Salaam -->
 📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
+🛠️ Currently working on a management system for CAG
 🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
+🌟 Main language: Java 😁 but currently working with PHP and Laravel
 🚩 Interested in Server Side Application Development
 😃 I look forward to collaborating on impactful projects
 </pre>
