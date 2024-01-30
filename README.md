@@ -6,7 +6,7 @@ Hello, I'm Kibwana Miruru!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
+💻 I'm a Software Engineer
 <!-- 📚 I'm pursuing a Bachelor in Computer Science from the University of Dar Es Salaam -->
 📝 I have a strong interest in Software Engineering and Design
 🛠️ Currently working on a management system for CAG
