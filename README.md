@@ -9,7 +9,7 @@ Hello, I'm Kibwana Miruru!
 💻 I am mainly a Backend Developer
 📚 I'm pursuing a Bachelor in Computer Science from the University of Dar Es Salaam
 📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
+🛠️ Currently working on a management system for (CAG)[https://github.com/cagmsys]
 🌱 Learning about efficient designs for scalable systems
 🌟 Main language: Java 😁
 🚩 Interested in Server Side Application Development
