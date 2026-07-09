@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirukibs&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mirukibs&show_icons=true&include_all_commits=true&theme=dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirukibs&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mirukibs&langs_count=4&theme=dark" />
 </p>
