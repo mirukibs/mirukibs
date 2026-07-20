@@ -116,8 +116,6 @@ When I'm not coding you'll probably find me
 - Learning French
 - Thinking about institutions, leadership and education
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
