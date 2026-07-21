@@ -74,11 +74,11 @@ The best software isn't the one with the most features—it's the one that conti
 
 ### Languages
 
-Java • PHP • Python • SQL
+Java • PHP • Python • SQL • Typescript
 
 ### Frameworks
 
-Laravel • Spring Boot
+Laravel • Spring Boot • Django
 
 ### Databases
 
@@ -97,6 +97,8 @@ Clean Architecture
 Distributed Systems
 
 Developer Experience
+
+Open-Source Communities and Contributions
 
 ## 🌍 Leadership & Community
 
